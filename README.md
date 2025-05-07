@@ -1,3 +1,4 @@
+Required Dependencies
 "react-native-reanimated": "~3.16.1",
 "react-native-redash": "^18.1.3",
 "react-native-svg": "^15.8.0",
